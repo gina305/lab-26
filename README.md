@@ -1,4 +1,3 @@
-"# lab-26" 
 ## Pseudocode
   
   
@@ -18,6 +17,20 @@
       arr[j + 1] <-- temp
       ```
       
-      
       Loop though the array
       
+      
+Pass 1:
+[8,4,23,42,16,15]
+
+
+Pass 2:
+[8,4,23,42,16,15]
+
+
+Pass 3:
+
+
+Pass 4:
+
+
